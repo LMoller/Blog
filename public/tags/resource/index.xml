@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resource on Lisa Moller</title>
-    <link>/tags/resource/</link>
+    <link>https://lmoller.rbind.io/tags/resource/</link>
     <description>Recent content in Resource on Lisa Moller</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>lakmoller@gmail.com (Lisa Moller)</managingEditor>
     <webMaster>lakmoller@gmail.com (Lisa Moller)</webMaster>
     <lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/resource/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lmoller.rbind.io/tags/resource/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amazing Tech/Social Policy Groups</title>
-      <link>/post/2018-9-12-techsocialpolicy/</link>
+      <link>https://lmoller.rbind.io/post/2018-9-12-techsocialpolicy/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/2018-9-12-techsocialpolicy/</guid>
+      <guid>https://lmoller.rbind.io/post/2018-9-12-techsocialpolicy/</guid>
       <description> Team Upturn Legal Hackers Mechanism Design for Social Good University of Chicago Center for Data Science and Social Policy D.C. Policy Center Equal Future Center for Policing Equity Ethics &amp;amp; Algorithms Toolkit  </description>
     </item>
     
     <item>
       <title>Get Involved</title>
-      <link>/post/2018-9-12-getinvolved/</link>
+      <link>https://lmoller.rbind.io/post/2018-9-12-getinvolved/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/2018-9-12-getinvolved/</guid>
+      <guid>https://lmoller.rbind.io/post/2018-9-12-getinvolved/</guid>
       <description>Contribute and grow your skills - there is something for everyone, no matter what level!  Data for Democracy - Check for a Meetup in your area Code for America Brigade - Check for a Meetup in your area Data Kind Datanauts  Not ready to join a group? There are a ton of great resources out there. The ones below are the ones I have used and would recommend.</description>
     </item>
     
     <item>
       <title>Reading List</title>
-      <link>/post/2018-9-12-books/</link>
+      <link>https://lmoller.rbind.io/post/2018-9-12-books/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/2018-9-12-books/</guid>
+      <guid>https://lmoller.rbind.io/post/2018-9-12-books/</guid>
       <description>This started more as a place to keep all of the book suggestions that I&amp;rsquo;ve receieved, or interesting books I&amp;rsquo;ve come across - meaning I haven&amp;rsquo;t read many of these books, but would love to. I am SURE there are plenty I am leaving off of here - please add favorites to the comments!
 I will also continue to find all of the emails I sent myself and notes in margins of randoms notebooks to find more titles&amp;hellip;</description>
     </item>
     
     <item>
       <title>Sites for Interesting Datasets</title>
-      <link>/post/2018-9-12-datasetsites/</link>
+      <link>https://lmoller.rbind.io/post/2018-9-12-datasetsites/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/2018-9-12-datasetsites/</guid>
+      <guid>https://lmoller.rbind.io/post/2018-9-12-datasetsites/</guid>
       <description>This list may not be needed anymore since there is now&amp;hellip; - Google Dataset Search
 But here are a few good posts that give ideas. It&amp;rsquo;s fairly easy to google these, but I seem to have difficulty finding the right dataset when I need it. - https://www.dataquest.io/blog/free-datasets-for-projects/ - https://www.kdnuggets.com/datasets/index.html - https://www.analyticsvidhya.com/blog/2016/11/25-websites-to-find-datasets-for-data-science-projects/
 Sites I&amp;rsquo;ve found some interesting data&amp;hellip; - NASA - Microsoft Research Open Data - Many city/county sites have data for their area - ProPublica - U.</description>
