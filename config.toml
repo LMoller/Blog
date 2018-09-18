@@ -1,0 +1,108 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+title = "Lisa Moller"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+disqusShortname = "XXX"
+googleAnalytics = "XXX"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[Params]
+  homeTitle = "Data Science Through a Policy Lens"
+  subtitle = "Exploring data science topics (in R and Python) with a focus on public policy and non-profit work."
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  useHLJS = true
+  socialShare = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[[Params.bigimg]]
+  src = "img/blueplaster.jpg"
+  desc = ""
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Lisa Moller"
+  website = "yourwebsite.com"
+  email = "lakmoller@gmail.com"
+  #facebook = "username"
+  #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "https://github.com/LMoller"
+  #gitlab = "username"
+  #bitbucket = "username"
+  twitter = "https://twitter.com/lakmoller"
+  #reddit = "username"
+  linkedin = "https://www.linkedin.com/in/lisamoller/"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    weight = 3
+
+[[menu.main]]
+    parent = "resources"
+    name = "Reading List"
+    url = "post/2018-9-12-books"
+    weight = 1
+
+[[menu.main]]
+    parent = "resources"
+    name = "Dataset Sites"
+    url = "post/2018-9-12-datasetsites"
+    weight = 2
+
+[[menu.main]]
+    parent = "resources"
+    name = "Get Involved/Learn"
+    url = "post/2018-9-12-getinvolved"
+    weight = 3
+    
+[[menu.main]]
+    parent = "resources"
+    name = "Amazing Tech Social Policy Groups"
+    url = "post/2018-9-12-techsocialpolcy"
+    weight = 4
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 4
