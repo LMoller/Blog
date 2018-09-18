@@ -4,7 +4,7 @@ subtitle: Use your powers for good, learn on your own, read about all of the int
 date: 2018-09-12
 tags: ["resource"]
 ---
-#### Contribute and **grow** your skills - there is something for everyone, no matter what level!
+#### **Contribute** and **grow** your skills - there is something for everyone, no matter what level!
 
 - [Data for Democracy](http://datafordemocracy.org/about.html) - Check for a Meetup in your area
 - [Code for America Brigade](https://brigade.codeforamerica.org) - Check for a Meetup in your area
@@ -17,6 +17,7 @@ For free
 - [Kaggle](https://www.kaggle.com/)
 - [Datacamp](https://www.datacamp.com) - usually the first level is free and then you pay for higher-level courses
 - [Coursera](https://www.coursera.org)
+- [Data Science Roadmap](https://github.com/hasbrain/data-science-roadmap?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_200)
 
 For a charge
 - [Springboard](https://www.springboard.com)
