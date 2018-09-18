@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisa Moller</title>
-    <link>/</link>
+    <link>https://blissful-bell-4ddc42.netlify.com/</link>
     <description>Recent content on Lisa Moller</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>lakmoller@gmail.com (Lisa Moller)</managingEditor>
     <webMaster>lakmoller@gmail.com (Lisa Moller)</webMaster>
     <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blissful-bell-4ddc42.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>/post/2018-09-17-first-post/</link>
+      <link>https://blissful-bell-4ddc42.netlify.com/post/2018-09-17-first-post/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/2018-09-17-first-post/</guid>
+      <guid>https://blissful-bell-4ddc42.netlify.com/post/2018-09-17-first-post/</guid>
       <description>This is my first post!</description>
     </item>
     
     <item>
       <title>Amazing Tech/Social Policy Groups</title>
-      <link>/post/2018-9-12-techsocialpolicy/</link>
+      <link>https://blissful-bell-4ddc42.netlify.com/post/2018-9-12-techsocialpolicy/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/2018-9-12-techsocialpolicy/</guid>
+      <guid>https://blissful-bell-4ddc42.netlify.com/post/2018-9-12-techsocialpolicy/</guid>
       <description> Team Upturn Legal Hackers Mechanism Design for Social Good University of Chicago Center for Data Science and Social Policy D.C. Policy Center Equal Future Center for Policing Equity Ethics &amp;amp; Algorithms Toolkit  </description>
     </item>
     
     <item>
       <title>Get Involved</title>
-      <link>/post/2018-9-12-getinvolved/</link>
+      <link>https://blissful-bell-4ddc42.netlify.com/post/2018-9-12-getinvolved/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/2018-9-12-getinvolved/</guid>
+      <guid>https://blissful-bell-4ddc42.netlify.com/post/2018-9-12-getinvolved/</guid>
       <description>Contribute and grow your skills - there is something for everyone, no matter what level!  Data for Democracy - Check for a Meetup in your area Code for America Brigade - Check for a Meetup in your area Data Kind Datanauts  Not ready to join a group? There are a ton of great resources out there. The ones below are the ones I have used and would recommend.</description>
     </item>
     
     <item>
       <title>Reading List</title>
-      <link>/post/2018-9-12-books/</link>
+      <link>https://blissful-bell-4ddc42.netlify.com/post/2018-9-12-books/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/2018-9-12-books/</guid>
+      <guid>https://blissful-bell-4ddc42.netlify.com/post/2018-9-12-books/</guid>
       <description>This started more as a place to keep all of the book suggestions that I&amp;rsquo;ve receieved, or interesting books I&amp;rsquo;ve come across - meaning I haven&amp;rsquo;t read many of these books, but would love to. I am SURE there are plenty I am leaving off of here - please add favorites to the comments!
 I will also continue to find all of the emails I sent myself and notes in margins of randoms notebooks to find more titles&amp;hellip;</description>
     </item>
     
     <item>
       <title>Sites for Interesting Datasets</title>
-      <link>/post/2018-9-12-datasetsites/</link>
+      <link>https://blissful-bell-4ddc42.netlify.com/post/2018-9-12-datasetsites/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/2018-9-12-datasetsites/</guid>
+      <guid>https://blissful-bell-4ddc42.netlify.com/post/2018-9-12-datasetsites/</guid>
       <description>This list may not be needed anymore since there is now&amp;hellip; - Google Dataset Search
 But here are a few good posts that give ideas. It&amp;rsquo;s fairly easy to google these, but I seem to have difficulty finding the right dataset when I need it. - https://www.dataquest.io/blog/free-datasets-for-projects/ - https://www.kdnuggets.com/datasets/index.html - https://www.analyticsvidhya.com/blog/2016/11/25-websites-to-find-datasets-for-data-science-projects/
 Sites I&amp;rsquo;ve found some interesting data&amp;hellip; - NASA - Microsoft Research Open Data - Many city/county sites have data for their area - ProPublica - U.</description>
@@ -62,37 +62,37 @@ Sites I&amp;rsquo;ve found some interesting data&amp;hellip; - NASA - Microsoft 
     
     <item>
       <title></title>
-      <link>/_index_frontpage/</link>
+      <link>https://blissful-bell-4ddc42.netlify.com/_index_frontpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/_index_frontpage/</guid>
+      <guid>https://blissful-bell-4ddc42.netlify.com/_index_frontpage/</guid>
       <description>Front Page Content beautifulhugo supports content on your front page. Edit /content/_index.md to change what appears here. Delete /content/_index.md if you don&amp;rsquo;t want any content here.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/page/about/</link>
+      <link>https://blissful-bell-4ddc42.netlify.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/page/about/</guid>
+      <guid>https://blissful-bell-4ddc42.netlify.com/page/about/</guid>
       <description>Background       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
     <item>
       <title>Background</title>
-      <link>/page/about/</link>
+      <link>https://blissful-bell-4ddc42.netlify.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/page/about/</guid>
+      <guid>https://blissful-bell-4ddc42.netlify.com/page/about/</guid>
       <description>My love for data and policy started in undergrad as I was studying math and biology. As my research became more focused, I saw how people used/misused/ignored data and research when making policy decisions. I chose to go to law school wanting to use my technical background to help support research-based policy. After working several years as an attorney focused on Health Law and Policy, I turned my attention to programming.</description>
     </item>
     
     <item>
       <title>Background</title>
-      <link>/page/aboutexample/</link>
+      <link>https://blissful-bell-4ddc42.netlify.com/page/aboutexample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/page/aboutexample/</guid>
+      <guid>https://blissful-bell-4ddc42.netlify.com/page/aboutexample/</guid>
       <description>My name is Inigo Montoya. I have the following qualities:
  I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
 my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>

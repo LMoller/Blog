@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lisa Moller</title>
-    <link>/categories/</link>
+    <link>https://blissful-bell-4ddc42.netlify.com/categories/</link>
     <description>Recent content in Categories on Lisa Moller</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>lakmoller@gmail.com (Lisa Moller)</managingEditor>
     <webMaster>lakmoller@gmail.com (Lisa Moller)</webMaster>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blissful-bell-4ddc42.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
