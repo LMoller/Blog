@@ -24,3 +24,4 @@ Sites I've found some interesting data...
 - [U.S. Government’s Open Data](data.gov)
 - [FiveThirtyEight](https://github.com/fivethirtyeight/data)
 - [Awesome Data](https://github.com/awesomedata/awesome-public-datasets)
+- [Stanford Open Policing Project](https://openpolicing.stanford.edu/data/)
