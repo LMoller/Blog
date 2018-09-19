@@ -4,14 +4,15 @@ subtitle: Use your powers for good, learn on your own, read about all of the int
 date: 2018-09-12
 tags: ["resource"]
 ---
-#### **Contribute** and **grow** your skills - there is something for everyone, no matter what level!
+#### CONTRIBUTE and grow your skills - there is something for everyone, no matter what level you are at!
 
 - [Data for Democracy](http://datafordemocracy.org/about.html) - Check for a Meetup in your area
 - [Code for America Brigade](https://brigade.codeforamerica.org) - Check for a Meetup in your area
 - [Data Kind](https://www.datakind.org)
 - [Datanauts](https://open.nasa.gov/explore/)
 
-#### Not ready to join a group? There are a ton of great resources out there. The ones below are the ones I have used and would recommend. I will update with comments.
+
+#### Not ready to join a group? There are a ton of great resources out there. The ones below are the ones I have used and would recommend. I will update with comments at some point.
 
 For free
 
@@ -24,6 +25,7 @@ For a charge
 
 - [Springboard](https://www.springboard.com)
 
+
 #### Some great blogs/ways to keep up-to-date
 
 - TWITTER - there are a ton of wonderful people to follow. If you search '#rstats' or '#python', you'll be sure to find many.
@@ -34,4 +36,4 @@ For a charge
 - [FiveThirtyEight](https://fivethirtyeight.com)
 - [Simply Statistics](https://simplystatistics.org)
 
-If you are worried about signing up for a bunch of blogs, I'll go back to twitter... many of the blogs/newsletters (and their authors) have a twitter handle and will post content there. It's a great way to have it all in one spot.
+If you are worried about signing up for a bunch of blogs, go back to twitter... many of the blogs/newsletters (and their authors) are on twitter and will post content there. It's a great way to have it all in one spot.
