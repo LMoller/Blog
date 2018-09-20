@@ -8,6 +8,7 @@ tags: ["resource"]
 
 - [Data for Democracy](http://datafordemocracy.org/about.html) - Check for a Meetup in your area
 - [Code for America Brigade](https://brigade.codeforamerica.org) - Check for a Meetup in your area
+- [Viz for Social Good](https://www.vizforsocialgood.com/how-it-works)
 - [Data Kind](https://www.datakind.org)
 - [Datanauts](https://open.nasa.gov/explore/)
 
