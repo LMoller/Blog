@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>lakmoller@gmail.com (Lisa Moller)</managingEditor>
     <webMaster>lakmoller@gmail.com (Lisa Moller)</webMaster>
-    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lmoller.rbind.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title>First Post</title>
       <link>https://lmoller.rbind.io/post/2018-09-17-first-post/</link>
-      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
       <guid>https://lmoller.rbind.io/post/2018-09-17-first-post/</guid>
-      <description>This is my first post!</description>
+      <description>This is my first post! I am very excited to start recording some of my work, thought processes, passion and excitement for data science and social policy. I plan to share R and Python code from projects I’m working on, books I’m reading, classes I’m taking… partly to be selfish and relearn the information by teaching it, but also hoping to reach people interested in (and new to) the intersection of data science and the policy/non-profit world.</description>
     </item>
     
     <item>
