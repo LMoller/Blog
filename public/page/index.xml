@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Lisa Moller</title>
-    <link>https://lmoller.rbind.io/page/</link>
+    <link>/page/</link>
     <description>Recent content in Pages on Lisa Moller</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>lakmoller@gmail.com (Lisa Moller)</managingEditor>
     <webMaster>lakmoller@gmail.com (Lisa Moller)</webMaster>
     
-	<atom:link href="https://lmoller.rbind.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://lmoller.rbind.io/page/about/</link>
+      <link>/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>https://lmoller.rbind.io/page/about/</guid>
+      <guid>/page/about/</guid>
       <description>Background       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
     <item>
       <title>Background</title>
-      <link>https://lmoller.rbind.io/page/about/</link>
+      <link>/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>https://lmoller.rbind.io/page/about/</guid>
+      <guid>/page/about/</guid>
       <description>My love for data and policy started in undergrad as I was studying math and biology. As my research became more focused, I saw how people used/misused/ignored data and research when making policy decisions. I chose to go to law school wanting to use my technical background to help support research-based policy. After working several years as an attorney focused on Health Law and Policy, I turned my attention to programming.</description>
     </item>
     
     <item>
       <title>Background</title>
-      <link>https://lmoller.rbind.io/page/aboutexample/</link>
+      <link>/page/aboutexample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>https://lmoller.rbind.io/page/aboutexample/</guid>
+      <guid>/page/aboutexample/</guid>
       <description>My name is Inigo Montoya. I have the following qualities:
  I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
 my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>

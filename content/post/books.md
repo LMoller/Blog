@@ -24,6 +24,7 @@ I will also continue to find all of the emails I sent myself and notes in margin
 - Data Smart by John W. Foreman
 - Numsense! Data Science for the Layman: No Math Added by Annalyn Ng and Kenneth Soo
 - Data Science from Scratch by Joel Grus
+- From KD Nuggets: ["10 Free Must-Read Books for Machine Learning and Data Science"](https://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html)
 
 ### Statistics
 - Naked Statistics: Stripping the Dread from the Data by Charles Wheelan

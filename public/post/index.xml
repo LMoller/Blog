@@ -2,68 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lisa Moller</title>
-    <link>https://lmoller.rbind.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Lisa Moller</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>lakmoller@gmail.com (Lisa Moller)</managingEditor>
     <webMaster>lakmoller@gmail.com (Lisa Moller)</webMaster>
     <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lmoller.rbind.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>First Post</title>
-      <link>https://lmoller.rbind.io/post/2018-09-17-first-post/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>https://lmoller.rbind.io/post/2018-09-17-first-post/</guid>
-      <description>This is my first post! I am very excited to start recording some of my work, thought processes, passion and excitement for data science and social policy. I plan to share R and Python code from projects I’m working on, books I’m reading, classes I’m taking… partly to be selfish and relearn the information by teaching it, but also hoping to reach people interested in (and new to) the intersection of data science and the policy/non-profit world.</description>
-    </item>
     
     <item>
       <title>First Post - My Plan</title>
-      <link>https://lmoller.rbind.io/post/2018-09-19-first-post/</link>
+      <link>/post/2018-09-19-first-post/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>https://lmoller.rbind.io/post/2018-09-19-first-post/</guid>
+      <guid>/post/2018-09-19-first-post/</guid>
       <description>I am very excited to start recording some of my work, thought processes, passion and excitement for data science and social policy. I plan to share R and Python code from projects I’m working on, books I’m reading, classes I’m taking… partly to be selfish and relearn the information by “teaching” it, but also hoping to reach people interested in (and new to) the intersection of data science and the policy/non-profit world.</description>
     </item>
     
     <item>
       <title>Amazing Tech/Social Policy Groups</title>
-      <link>https://lmoller.rbind.io/post/techsocialpolicy/</link>
+      <link>/post/techsocialpolicy/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>https://lmoller.rbind.io/post/techsocialpolicy/</guid>
+      <guid>/post/techsocialpolicy/</guid>
       <description> Team Upturn Legal Hackers Mechanism Design for Social Good University of Chicago Center for Data Science and Social Policy D.C. Policy Center Equal Future Center for Policing Equity Ethics &amp;amp; Algorithms Toolkit  </description>
     </item>
     
     <item>
       <title>Get Involved</title>
-      <link>https://lmoller.rbind.io/post/getinvolved/</link>
+      <link>/post/getinvolved/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>https://lmoller.rbind.io/post/getinvolved/</guid>
+      <guid>/post/getinvolved/</guid>
       <description>CONTRIBUTE and grow your skills - there is something for everyone, no matter what level you are at!  Data for Democracy - Check for a Meetup in your area Code for America Brigade - Check for a Meetup in your area Viz for Social Good Data Kind Datanauts  Not ready to join a group? There are a ton of great resources out there. The ones below are the ones I have used and would recommend.</description>
     </item>
     
     <item>
       <title>Reading List</title>
-      <link>https://lmoller.rbind.io/post/books/</link>
+      <link>/post/books/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>https://lmoller.rbind.io/post/books/</guid>
+      <guid>/post/books/</guid>
       <description>This started more as a place to keep all of the book suggestions that I&amp;rsquo;ve receieved, or interesting books I&amp;rsquo;ve come across - meaning I haven&amp;rsquo;t read many of these books, but would love to. I am SURE there are plenty I am leaving off of here - please add favorites to the comments!
 I will also continue to find all of the emails I sent myself and notes in margins of randoms notebooks to find more titles&amp;hellip;</description>
     </item>
     
     <item>
       <title>Sites for Interesting Datasets</title>
-      <link>https://lmoller.rbind.io/post/datasetsites/</link>
+      <link>/post/datasetsites/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>https://lmoller.rbind.io/post/datasetsites/</guid>
+      <guid>/post/datasetsites/</guid>
       <description>This list may not be needed anymore since there is now&amp;hellip;
  Google Dataset Search  But here are a few good posts that give ideas. It&amp;rsquo;s fairly easy to google these, but I seem to have difficulty finding the right dataset when I need it.
  https://www.dataquest.io/blog/free-datasets-for-projects/ https://www.kdnuggets.com/datasets/index.html https://www.analyticsvidhya.com/blog/2016/11/25-websites-to-find-datasets-for-data-science-projects/  Sites I&amp;rsquo;ve found some interesting data&amp;hellip;

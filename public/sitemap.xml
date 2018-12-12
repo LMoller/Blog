@@ -3,81 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lmoller.rbind.io/post/2018-09-17-first-post/</loc>
+    <loc>/post/2018-09-19-first-post/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/post/2018-09-19-first-post/</loc>
-    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmoller.rbind.io/post/techsocialpolicy/</loc>
+    <loc>/post/techsocialpolicy/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/post/getinvolved/</loc>
+    <loc>/post/getinvolved/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/post/books/</loc>
+    <loc>/post/books/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/post/datasetsites/</loc>
+    <loc>/post/datasetsites/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/_index_frontpage/</loc>
+    <loc>/_index_frontpage/</loc>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/page/about/</loc>
+    <loc>/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/page/about/</loc>
+    <loc>/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/page/aboutexample/</loc>
+    <loc>/page/aboutexample/</loc>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/</loc>
+    <loc>/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/page/</loc>
+    <loc>/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/tags/resource/</loc>
+    <loc>/tags/resource/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmoller.rbind.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
