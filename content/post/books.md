@@ -1,10 +1,10 @@
 ---
 title: Reading List
-subtitle: Books suggested or found for many topics related to data science and social policy.
+subtitle: Books, papers and articles suggested or found for many topics related to data science and social policy.
 date: 2018-09-12
 tags: ["resource"]
 ---
-This started more as a place to keep all of the book suggestions that I've receieved, or interesting books I've come across - meaning I haven't read many of these books, but would love to. I am SURE there are plenty I am leaving off of here - please add favorites to the comments!
+This started more as a place to keep all of the book and article suggestions that I've receieved, or interesting titles I've come across - meaning I haven't read many of these books/articles/papers, but would love to. I am SURE there are plenty I am leaving off of here - please add favorites to the comments!
 
 I will also continue to find all of the emails I sent myself and notes in margins of randoms notebooks to find more titles...
 
@@ -25,16 +25,19 @@ I will also continue to find all of the emails I sent myself and notes in margin
 - Numsense! Data Science for the Layman: No Math Added by Annalyn Ng and Kenneth Soo
 - Data Science from Scratch by Joel Grus
 - From KD Nuggets: ["10 Free Must-Read Books for Machine Learning and Data Science"](https://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html)
+- [FastML - Machine Learning Made Easy](http://fastml.com/)
 
 ### Statistics
 - Naked Statistics: Stripping the Dread from the Data by Charles Wheelan
 - Statistics I and II for Dummies by Deborah J. Rumsey
+- ["Andrew Gelman's Blog"](https://statmodeling.stat.columbia.edu/)
 
 ### Visualizations
 - Resonate by Nancy Duarte
 - Presentation Zen by Garr Reynolds
 - The Functional Art by Alberto Cairo
 - Made to stick by Chip Heath and Dan Heath
+- ["Flowing Data"](https://flowingdata.com/)
 
 ### Presentations
 - Death by PowerPoint by Alexei Kapterev
