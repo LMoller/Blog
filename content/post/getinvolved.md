@@ -1,8 +1,9 @@
 ---
-title: Get Involved
-subtitle: Use your powers for good, learn on your own, and/or read about all of the interesting work happening.
-date: 2019-11-11
-tags: ["resource"]
+title: "Get Involved"
+subtitle: Use your powers for good, learn on your own, and/or read about all of the
+  interesting work happening.
+date: '2019-11-11'
+tags: resource
 ---
 #### CONTRIBUTE and grow your skills - there is something for everyone, no matter what level you are at!
 
