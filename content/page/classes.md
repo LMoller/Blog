@@ -1,7 +1,6 @@
 ---
 title: Classes
 subtitle: Continuing education! There are always too many interesting classes to take.
-date: 2018-09-12
 tags: ["resource"]
 ---
 #### Kaggle

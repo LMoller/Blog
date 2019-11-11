@@ -1,7 +1,6 @@
 ---
 title: Get Involved
-subtitle: Use your powers for good, learn on your own, read about all of the interesting work happening.
-date: 2018-09-12
+subtitle: Use your powers for good, learn on your own, and/or read about all of the interesting work happening.
 tags: ["resource"]
 ---
 #### CONTRIBUTE and grow your skills - there is something for everyone, no matter what level you are at!
@@ -13,7 +12,8 @@ tags: ["resource"]
 - [Datanauts](https://open.nasa.gov/explore/)
 
 
-#### Not ready to join a group? There are a ton of great resources out there. The ones below are the ones I have used and would recommend. I will update with comments at some point.
+
+#### CLASSES are a great way to interact witht the community and grow your skills.
 
 For free
 
@@ -22,12 +22,14 @@ For free
 - [Coursera](https://www.coursera.org)
 - [Data Science Roadmap](https://github.com/hasbrain/data-science-roadmap?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_200)
 
+- Specific [Classes]() that look interesting to me...
+
 For a charge
 
 - [Springboard](https://www.springboard.com)
 
 
-#### Some great blogs/ways to keep up-to-date
+#### BLOGS are a great way to keep up-to-date on community happenings.
 
 - TWITTER - there are a ton of wonderful people to follow. If you search '#rstats' or '#python', you'll be sure to find many.
 - [R-Bloggers](https://www.r-bloggers.com)
