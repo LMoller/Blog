@@ -20,7 +20,6 @@ tags: resource
 For free
 
 - [Kaggle](https://www.kaggle.com/)
-- [Datacamp](https://www.datacamp.com) - usually the first level is free and then you pay for higher-level courses
 - [Coursera](https://www.coursera.org)
 - [Data Science Roadmap](https://github.com/hasbrain/data-science-roadmap?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_200)
 
