@@ -15,7 +15,7 @@ tags: resource
 
 
 
-#### CLASSES are a great way to interact witht the community and grow your skills.
+#### CLASSES are a great way to interact with the community and grow your skills.
 
 For free
 
