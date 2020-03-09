@@ -1,0 +1,224 @@
+---
+title: "How to Create a Shiny App"
+date: 2020-03-08
+output: html_document
+---
+
+```{r libraries, echo = FALSE, message = FALSE}
+library(ggplot2)
+library(dplyr)
+```
+
+*If you'd like to follow along, install "shiny" and "shinyWidgets"*
+
+install.packages("shiny")&nbsp;
+
+## What Are You Going to Cover?
+
+* WHY make a Shiny app?
+* Basics of Shiny through making a simple app with two files
+* Small bit on reactive programming
+
+While this will be a pretty basic post to get started with Shiny, I will provide resources at the end that I have found helpful.
+
+I have made several apps for work that are getting larger and larger. So there will be another post coming about better management and scaling your workflow.
+
+To start though, this is an overview of how to get started. Which leads me to...&nbsp;
+
+&nbsp;
+
+## WHY Create a Shiny App?
+
+* It's FUN!!
+* It's interactive and a powerful tool to present your work.
+* You can get it up and running fairly quickly.
+* It can be free!
+Of course there are many extras you can pay for: amount of time people are connecting to your app, security, the number of apps you can make... but it's easy to start with one or two apps so you can make a case to the powers-that-be if you need any of that.
+* It's reproducible.
+I've created some dashboards in Excel, Power BI and Tableau. They are fairly powerful as well, but it can be hard to document/remember any data transformations you did or the steps you took to get to a final product. With Shiny, it's all in the code.&nbsp;
+
+&nbsp;
+
+## Let's Do This!
+
+####**Create a New Shiny Web App**
+
+1. Top left corner under File, select the New button and then Shiny Web App
+
+![](/Users/Molfer/Documents/Lisa/Blog/Blog/static/image/new_shiny_app.png)
+&nbsp;
+
+2. Name your application
+3. Select a file type: Single or Multiple File?
+        + We’re going to go with Multiple… You can always change it!
+        + Single is ok if it’s a simple app. Once you start to get more than one or two buttons/charts/whatever, the code gets long and you do a lot of scrolling.
+4. Select Create
+
+We ALREADY have an app!!&nbsp;
+
+&nbsp;
+
+####**Just for fun, run the app.**
+
+At the top right of either your ui.R file or server.R file, there is a Run App button. You can use either. Select Run App.
+
+![](/Users/Molfer/Documents/Lisa/Blog/Blog/static/image/run_app.png)
+
+So that's it!
+
+Just kidding...&nbsp;
+
+&nbsp;
+
+##**So HOW does the app work?**
+
+**REACTIVE PROGRAMMING**
+
+Shiny apps have two parts - the UI (User Interface) and the Server.
+*We split those two parts into two files. If we created our app in one file, the UI and Server are just two parts of the same file.*
+
+The **UI** controls what the user sees and interacts with.
+
+The **Server** controls what information is presented - the content.
+
+These two files work together to allow the user to make a change to the app, say slide a slider, and the data output shown in the app changes as well.&nbsp;
+
+**Let's take a closer look at the UI and Server files**
+
+But first! There are different ways to structure your app, so you may see different options in other UI files. The flexibility is one benefit of Shiny. Two great resources...
+
+1. App formats article from RStudio: https://shiny.rstudio.com/articles/app-formats.html
+
+Explains some of the differences we see in app setup. For example, we no longer need to call shinyUI() in the UI file or shinyServer() in the Server file.
+
+2. RStudio Shiny Gallery: https://shiny.rstudio.com/gallery/
+
+The gallery has great examples with code to figure how to do what you would like to do.&nbsp;
+
+**The UI file**
+
+For our layout, we have a...
+
+titlePanel()
+
+sidebarLayout() that contains a sidebarPanel() and mainPanel()
+
+These all control the sections (title, left side of the page, and main middle area) of our app.
+
+Remove shinyUI(). As of Shiny .10 it is no longer needed. Any way to make our files less complicated only helps.&nbsp;
+
+**The Server file**
+
+The Server file contains a function that will wrap any of the content of our app. Within our example function, we can see an output statement that creates output$distPlot.
+
+You will also see library(shiny) at the top.
+
+Remove shinyServer(). As of Shiny .10 it is no longer needed.&nbsp;
+
+&nbsp;
+
+##**But how does Reactive Programming work?**
+
+As I said earlier, the files work together. They use "inputs" and "outputs" to communicate.
+
+Looking at our example shiny app...
+
+1. In the UI file, the sliderInput, "bins", changes when the user makes a change.
+
+2. The Server files "watches" for any changes in the UI input with input$bins.
+
+![](/Users/Molfer/Documents/Lisa/Blog/Blog/static/image/im_always_watching.jpg)
+
+3. The Server then changes output$distPlot.
+
+4. And the updated output shows on the UI with plotOutput("distPlot")&nbsp;
+
+**Said in a different way...**
+
+![](/Users/Molfer/Documents/Lisa/Blog/Blog/static/image/reactive_programming_a.png)
+
+![Example from newly opened shiny app](/Users/Molfer/Documents/Lisa/Blog/Blog/static/image/reactive_programming_b.png)
+&nbsp;
+
+&nbsp;
+
+##**I've got this. Ah... Now how do I make my own app?**
+
+Say we wanted to make the plot below with the ability to select the class of car? (example from R for Data Sceince by Garrett Grolemund and Hadley Wickham)
+
+```{r_plot}
+mpg %>% 
+        ggplot() + 
+        geom_point(mapping = aes(x = displ, y = hwy, color = class))
+```
+
+1. In the UI file, add library(ggplot2), library(dplyr) and library(shinyWidgets) to the top of the file.
+
+2. UI: change the title of the app in the titlePanel.
+
+3. UI: remove the sliderInput section and replace it with...
+
+```{r_selectInput, eval = FALSE}
+       pickerInput(inputId = "class_of_car",
+                   label = "Class:", 
+                   choices = c(unique(mpg$class)),
+                   selected = c(unique(mpg$class)),
+                   options = list(`actions-box` = TRUE, size = 12,`selected-text-format` = "count> 3"),
+                   multiple = TRUE
+                   )
+```
+
+4. UI: Change the variable in plotOutput to mpgPlot.
+
+5. In the Server file, add a reactive expression above the current output statement that will adjust the dataset for the plot.
+
+```{r_reactive, eval = FALSE}
+  mpg_analysis <- reactive({
+          mpg %>% 
+                  filter(class %in% input$class_of_car)
+  })
+```
+
+6. Server: Copy the code for our example plot. Replace what is inside renderPlot({})
+
+```{r_plot2, eval = FALSE}
+mpg %>% 
+        ggplot() + 
+        geom_point(mapping = aes(x = displ, y = hwy, color = class))
+```
+
+7. Server: Change the name of distPlot (at output$distPlot) to mpgPlot.
+
+8. Save both files.
+
+![](/Users/Molfer/Documents/Lisa/Blog/Blog/static/image/final_app.png)
+Final code. The files can be found at: https://github.com/LMoller/how_to_make_your_first_shiny_app/tree/master/no_file
+&nbsp;
+
+**We're close... if we look at our steps above on how reactive programming works, we can check.**
+
+*Quick summary: When the user makes a change, the UI recognizes it, the server input watches and changes the server output, then the UI output changes.*
+
+First, we look in our UI file, we have the inputId in the pickerInput.
+
+Second, we check the Server file for the input. It's in our reactive expression. That input adjusts the dataset that is used in the plot.
+
+Third, the plot output, mpgPlot, adjusts with our changes.
+
+Fourth, the output from the Server is in the UI shown in the plotOutput.
+
+Let's run the app!
+
+Hopefully that all went smoothly... there are a ton of resources out there to learn more. The easiest way for me to learn has been to find a design I like, that works for my data, and grab the code. A few resources are below to do just that.&nbsp;
+
+&nbsp;
+
+##Resources
+
+* Mastering Shiny by Hadley Wickham: https://mastering-shiny.org/
+* RStudio Resources!
+    + https://shiny.rstudio.com/gallery/
+    + https://shiny.rstudio.com/articles/basics.html (a great intro to reactive programming)
+    + https://shiny.rstudio.com/tutorial/
+* Shiny Dashboard as a Package: https://www.r-bloggers.com/best-practice-development-of-robust-shiny-dashboards-as-r-packages/
+* Functions Excel Users Love: https://www.r-bloggers.com/forget-about-excel-use-these-r-shiny-packages-instead/
