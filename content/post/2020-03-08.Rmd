@@ -105,7 +105,7 @@ sidebarLayout() that contains a sidebarPanel() and mainPanel()
 
 These all control the sections (title, left side of the page, and main middle area) of our app.
 
-Remove shinyUI(). As of Shiny .10 it is no longer needed. Any way to make our files less complicated only helps.&nbsp;
+If your app has it, remove shinyUI() from the beginning. As of Shiny .10 it is no longer needed. Any way to make our files less complicated only helps.&nbsp;
 
 **The Server file**
 
@@ -113,7 +113,7 @@ The Server file contains a function that will wrap any of the content of our app
 
 You will also see library(shiny) at the top.
 
-Remove shinyServer(). As of Shiny .10 it is no longer needed.&nbsp;
+If your app has it, remove shinyServer()from the beginning. As of Shiny .10 it is no longer needed.&nbsp;
 
 &nbsp;
 
@@ -144,7 +144,7 @@ Looking at our example shiny app...
 
 ##**I've got this. Ah... Now how do I make my own app?**
 
-Say we wanted to make the plot below with the ability to select the class of car? (example from R for Data Sceince by Garrett Grolemund and Hadley Wickham)
+Say we wanted to make the plot below with the ability to select the class of car? (example from R for Data Science by Garrett Grolemund and Hadley Wickham)
 
 ```{r_plot}
 mpg %>% 
@@ -218,7 +218,9 @@ Hopefully that all went smoothly... there are a ton of resources out there to le
 * Mastering Shiny by Hadley Wickham: https://mastering-shiny.org/
 * RStudio Resources!
     + https://shiny.rstudio.com/gallery/
+    + https://shiny.rstudio.com/articles/app-formats.html
     + https://shiny.rstudio.com/articles/basics.html (a great intro to reactive programming)
     + https://shiny.rstudio.com/tutorial/
 * Shiny Dashboard as a Package: https://www.r-bloggers.com/best-practice-development-of-robust-shiny-dashboards-as-r-packages/
 * Functions Excel Users Love: https://www.r-bloggers.com/forget-about-excel-use-these-r-shiny-packages-instead/
+* Shiny cheatsheet: https://shiny.rstudio.com/images/shiny-cheatsheet.pdf

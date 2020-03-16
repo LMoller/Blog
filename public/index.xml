@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>lakmoller@gmail.com (Lisa Moller)</managingEditor>
     <webMaster>lakmoller@gmail.com (Lisa Moller)</webMaster>
-    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Create a Shiny App</title>
+      <link>/post/2020-03-08/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <author>lakmoller@gmail.com (Lisa Moller)</author>
+      <guid>/post/2020-03-08/</guid>
+      <description>If you’d like to follow along, install “shiny” and “shinyWidgets”
+install.packages(“shiny”) What Are You Going to Cover?  WHY make a Shiny app? Basics of Shiny through making a simple app with two files Small bit on reactive programming  While this will be a pretty basic post to get started with Shiny, I will provide resources at the end that I have found helpful.
+I have made several apps for work that are getting larger and larger.</description>
+    </item>
     
     <item>
       <title>Get Involved</title>
