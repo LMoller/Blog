@@ -14,10 +14,10 @@
     
     <item>
       <title>Get Involved</title>
-      <link>/post/getinvolved/</link>
+      <link>/page/getinvolved/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/getinvolved/</guid>
+      <guid>/page/getinvolved/</guid>
       <description>CONTRIBUTE and grow your skills - there is something for everyone, no matter what level you are at!  Data for Democracy - Check for a Meetup in your area Code for America Brigade - Check for a Meetup in your area Viz for Social Good Data Kind Datanauts  CLASSES are a great way to interact with the community and grow your skills. For free
   Kaggle
   Coursera</description>
@@ -52,15 +52,6 @@ I will also continue to find all of the emails I sent myself and notes in margin
  Google Dataset Search  But here are a few good posts that give ideas. It&#39;s fairly easy to google these, but I seem to have difficulty finding the right dataset when I need it.
  https://www.dataquest.io/blog/free-datasets-for-projects/ https://www.kdnuggets.com/datasets/index.html https://www.analyticsvidhya.com/blog/2016/11/25-websites-to-find-datasets-for-data-science-projects/  Sites I&#39;ve found some interesting data&amp;hellip;
  NASA Microsoft Research Open Data Many city/county sites have data for their area ProPublica U.</description>
-    </item>
-    
-    <item>
-      <title>Classes</title>
-      <link>/page/classes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/page/classes/</guid>
-      <description>Kaggle  Feature Engineering  </description>
     </item>
     
   </channel>

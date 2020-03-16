@@ -18,7 +18,12 @@
   </url>
   
   <url>
-    <loc>/post/getinvolved/</loc>
+    <loc>/page/getinvolved/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,11 +68,6 @@
   </url>
   
   <url>
-    <loc>/page/classes/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/page/about/</loc>
   </url>
   
@@ -77,14 +77,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/page/classes/</loc>
-  </url>
-  
-  <url>
-    <loc>/page/</loc>
   </url>
   
 </urlset>
