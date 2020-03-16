@@ -198,7 +198,7 @@ if (!doNotTrack) {
   
   
   &nbsp;|&nbsp;
-  <i class="fa fa-clock-o"></i> 6 minutes (1127 words)
+  <i class="fa fa-clock-o"></i> 6 minutes (1146 words)
   
   
 </span>
@@ -296,11 +296,11 @@ if (!doNotTrack) {
 <p>titlePanel()</p>
 <p>sidebarLayout() that contains a sidebarPanel() and mainPanel()</p>
 <p>These all control the sections (title, left side of the page, and main middle area) of our app.</p>
-<p>Remove shinyUI(). As of Shiny .10 it is no longer needed. Any way to make our files less complicated only helps. </p>
+<p>If your app has it, remove shinyUI() from the beginning. As of Shiny .10 it is no longer needed. Any way to make our files less complicated only helps. </p>
 <p><strong>The Server file</strong></p>
 <p>The Server file contains a function that will wrap any of the content of our app. Within our example function, we can see an output statement that creates output$distPlot.</p>
 <p>You will also see library(shiny) at the top.</p>
-<p>Remove shinyServer(). As of Shiny .10 it is no longer needed. </p>
+<p>If your app has it, remove shinyServer()from the beginning. As of Shiny .10 it is no longer needed. </p>
 <p> </p>
 </div>
 <div id="but-how-does-reactive-programming-work" class="section level2">
@@ -329,7 +329,7 @@ if (!doNotTrack) {
 </div>
 <div id="ive-got-this.-ah-now-how-do-i-make-my-own-app" class="section level2">
 <h2><strong>I’ve got this. Ah… Now how do I make my own app?</strong></h2>
-<p>Say we wanted to make the plot below with the ability to select the class of car? (example from R for Data Sceince by Garrett Grolemund and Hadley Wickham)</p>
+<p>Say we wanted to make the plot below with the ability to select the class of car? (example from R for Data Science by Garrett Grolemund and Hadley Wickham)</p>
 <pre class="r"><code>mpg %&gt;% 
         ggplot() + 
         geom_point(mapping = aes(x = displ, y = hwy, color = class))</code></pre>
@@ -382,11 +382,13 @@ if (!doNotTrack) {
 <li>RStudio Resources!
 <ul>
 <li><a href="https://shiny.rstudio.com/gallery/" class="uri">https://shiny.rstudio.com/gallery/</a></li>
+<li><a href="https://shiny.rstudio.com/articles/app-formats.html" class="uri">https://shiny.rstudio.com/articles/app-formats.html</a></li>
 <li><a href="https://shiny.rstudio.com/articles/basics.html" class="uri">https://shiny.rstudio.com/articles/basics.html</a> (a great intro to reactive programming)</li>
 <li><a href="https://shiny.rstudio.com/tutorial/" class="uri">https://shiny.rstudio.com/tutorial/</a></li>
 </ul></li>
 <li>Shiny Dashboard as a Package: <a href="https://www.r-bloggers.com/best-practice-development-of-robust-shiny-dashboards-as-r-packages/" class="uri">https://www.r-bloggers.com/best-practice-development-of-robust-shiny-dashboards-as-r-packages/</a></li>
 <li>Functions Excel Users Love: <a href="https://www.r-bloggers.com/forget-about-excel-use-these-r-shiny-packages-instead/" class="uri">https://www.r-bloggers.com/forget-about-excel-use-these-r-shiny-packages-instead/</a></li>
+<li>Shiny cheatsheet: <a href="https://shiny.rstudio.com/images/shiny-cheatsheet.pdf" class="uri">https://shiny.rstudio.com/images/shiny-cheatsheet.pdf</a></li>
 </ul>
 </div>
 
@@ -482,7 +484,7 @@ if (!doNotTrack) {
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="/post/getinvolved/" data-toggle="tooltip" data-placement="top" title="Get Involved">&larr; Previous Post</a>
+              <a href="/post/2020-03-08_old/" data-toggle="tooltip" data-placement="top" title="How to Create a Shiny App">&larr; Previous Post</a>
             </li>
           
           
