@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Lisa Moller</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in blog on Lisa Moller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>lakmoller@gmail.com (Lisa Moller)</managingEditor>
+    <webMaster>lakmoller@gmail.com (Lisa Moller)</webMaster>
+    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Create a Shiny App</title>
+      <link>/post/2020-03-08/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <author>lakmoller@gmail.com (Lisa Moller)</author>
+      <guid>/post/2020-03-08/</guid>
+      <description>If you’d like to follow along, install “shiny” and “shinyWidgets”
+install.packages(“shiny”) What Are You Going to Cover?  WHY make a Shiny app? Basics of Shiny through making a simple app with two files Small bit on reactive programming  While this will be a pretty basic post to get started with Shiny, I will provide resources at the end that I have found helpful.
+I have made several apps for work that are getting larger and larger.</description>
+    </item>
+    
+  </channel>
+</rss>
