@@ -45,7 +45,7 @@ I've created some dashboards in Excel, Power BI and Tableau. They are fairly pow
 
 1. Top left corner under File, select the New button and then Shiny Web App
 
-![](/static/post/2020-03-08_files/new_shiny_app.png)
+![](/post/2020-03-08_files/new_shiny_app.png)
 &nbsp;
 
 2. Name your application
@@ -62,7 +62,7 @@ We ALREADY have an app!!&nbsp;
 
 At the top right of either your ui.R file or server.R file, there is a Run App button. You can use either. Select Run App.
 
-![](/Blog/static/post/2020-03-08_files/run_app.png)
+![](/post/2020-03-08_files/run_app.png)
 
 So that's it!
 
@@ -127,7 +127,7 @@ Looking at our example shiny app...
 
 2. The Server files "watches" for any changes in the UI input with input$bins.
 
-![](/Users/Molfer/Documents/Lisa/Blog/Blog/static/image/im_always_watching.jpg)
+![](/post/2020-03-08_files/im_always_watching.jpg)
 
 3. The Server then changes output$distPlot.
 
@@ -135,9 +135,9 @@ Looking at our example shiny app...
 
 **Said in a different way...**
 
-![](/Users/Molfer/Documents/Lisa/Blog/Blog/static/image/reactive_programming_a.png)
+![](/post/2020-03-08_files/reactive_programming_a.png)
 
-![Example from newly opened shiny app](/Users/Molfer/Documents/Lisa/Blog/Blog/static/image/reactive_programming_b.png)
+![Example from newly opened shiny app](/post/2020-03-08_files/reactive_programming_b.png)
 &nbsp;
 
 &nbsp;
@@ -191,7 +191,7 @@ mpg %>%
 
 8. Save both files.
 
-![](/Users/Molfer/Documents/Lisa/Blog/Blog/static/image/final_app.png)
+![](/post/2020-03-08_files/final_app.png)
 Final code. The files can be found at: https://github.com/LMoller/how_to_make_your_first_shiny_app/tree/master/no_file
 &nbsp;
 
