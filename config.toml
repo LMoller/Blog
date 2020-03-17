@@ -81,25 +81,25 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     parent = "resources"
     name = "Reading List"
-    url = "resources/books"
+    url = "post/books"
     weight = 1
 
 [[menu.main]]
     parent = "resources"
     name = "Dataset Sites"
-    url = "resources/datasetsites"
+    url = "post/datasetsites"
     weight = 2
 
 [[menu.main]]
     parent = "resources"
     name = "Get Involved/Learn"
-    url = "resources/getinvolved"
+    url = "post/getinvolved"
     weight = 3
     
 [[menu.main]]
     parent = "resources"
     name = "Amazing Tech Social Policy Groups"
-    url = "resources/techsocialpolicy"
+    url = "post/techsocialpolicy"
     weight = 4
 
 [[menu.main]]
