@@ -23,14 +23,5 @@ install.packages(“shiny”) What Are You Going to Cover?  WHY make a Shiny ap
 I have made several apps for work that are getting larger and larger.</description>
     </item>
     
-    <item>
-      <title>First Post - My Plan</title>
-      <link>/post/2018-09-19-first-post/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      <author>lakmoller@gmail.com (Lisa Moller)</author>
-      <guid>/post/2018-09-19-first-post/</guid>
-      <description>I am very excited to start recording some of my work, thought processes, passion and excitement for data science and social policy. I plan to share R and Python code from projects I’m working on, books I’m reading, classes I’m taking… partly to be selfish and relearn the information by “teaching” it, but also hoping to reach people interested in (and new to) the intersection of data science and the policy/non-profit world.</description>
-    </item>
-    
   </channel>
 </rss>
