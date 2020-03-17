@@ -62,7 +62,7 @@ We ALREADY have an app!!&nbsp;
 
 At the top right of either your ui.R file or server.R file, there is a Run App button. You can use either. Select Run App.
 
-![](/static/post/2020-03-08_files/run_app.png)
+![](/Blog/static/post/2020-03-08_files/run_app.png)
 
 So that's it!
 
